@@ -1,4 +1,3 @@
-# my2-vudutha
-<h1>Mahitha Vudutha</h1>
-<h6>Vacation Spot : Haailand</h6>
-<p>Haailand contains many <strong>water rides</strong> and <strong>mechanical rides</strong> and I enjoyed alot with my friends in the vacation spot.</p>
+# VUDUTHA MAHITHA
+###### HAAILAND
+Haailand contains many __water rides__ and **mechanical rides** and I enjoyed alot with my friends in the vacation spot.
