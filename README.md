@@ -11,3 +11,4 @@ Haailand contains many __water rides__ and **mechanical rides** and I enjoyed al
 - Chicken Biryani
 - Italian food
 - Panner Tikka
+  ![mahi_image](https://github.com/MahithaVudutha/my2-vudutha/assets/143000682/92ea7494-de34-4098-938d-f05a26802a6b)
