@@ -14,3 +14,9 @@ The below table contains different types of sports that I wolud recommend
 | Badminton | Full Body workout | 15 |
 | Chess | Improves cognitive skills | 25 |
 | Volley Ball | Improves muscle Strength | 9 | 
+
+-------------------------------
+
+### Quotations
+> The most beautiful experience we can have is the mysterious - *Albert Einstein*
+> I’m sure the universe is full of intelligent life. It’s just been too intelligent to come here – *Arthur C. Clarke* 
